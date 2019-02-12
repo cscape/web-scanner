@@ -1,0 +1,11 @@
+{
+  "name": "web-scanner",
+  "version": "1.0.2",
+  "description": "Scan a list of hosts for availability as web servers",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Cyberscape <info@cyberscape.co>",
+  "license": "MIT"
+}
